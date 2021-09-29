@@ -1,2 +1,2 @@
 # C-C--Projects
-Basic C Programming, operators and User Input
+Learning C program, the operations in C and User Input
