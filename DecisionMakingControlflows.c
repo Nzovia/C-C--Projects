@@ -39,6 +39,7 @@ int main(){
         break;      
     
     default:
+        printf("Wrong input");
         break;
     }
 
